@@ -93,7 +93,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 80235,,Jefferson County,Denver Metro,8373,4033,4462,2157,53.5,70484,547000,36.6,31.6,5.2,47.7,97.5,56.8,0.0,50.2,61.4,66.5,73.6,High,Hail,Roof and deductible review,,1,0,0,0
 80236,,Denver County,Denver Metro,16863,6185,6500,3686,59.6,86115,531700,36.6,23.7,6.5,62.2,96.9,31.8,0.0,54.7,62.1,51.9,63.7,Moderate,,No change,,3,0,0,0
 80237,,Denver County,Denver Metro,23384,12007,12875,5259,43.8,85705,582500,35.3,25.7,7.5,45.9,98.4,42.0,0.0,60.8,70.8,56.9,69.4,High,Hail,Roof and deductible review,,2,1,0,0
-80238,,Denver County,Denver Metro,30575,11625,12428,8268,71.1,180940,832200,36.0,13.9,4.2,62.9,99.0,47.6,0.0,62.8,73.9,58.1,72.0,Extreme,Hail,Check appetite,,0,1,0,0
+80238,,Denver County,Denver Metro,30575,11625,12428,8268,71.1,180940,832200,36.0,13.9,4.2,62.9,99.0,47.6,0.0,62.8,73.9,58.1,72.0,Extreme,Hail,Check appetite,,0,1,0,1
 80239,,Denver County,Denver Metro,44956,13410,13943,8043,60.0,98148,429600,32.5,22.7,4.8,66.4,97.1,39.5,0.0,68.1,72.0,64.1,69.5,Moderate,,No change,,3,1,0,0
 80241,,Adams County,Denver Metro,34082,12679,13194,9453,74.6,110218,542100,35.9,23.8,2.5,73.4,97.6,63.0,0.0,61.9,59.2,84.6,78.7,High,Hail,Roof and deductible review,Yes,1,1,0,0
 80246,,Denver County,Denver Metro,13097,7666,8305,1529,19.9,67235,716400,32.5,11.7,6.8,39.7,96.0,28.0,0.0,47.5,58.5,45.8,60.5,Moderate,,No change,,0,0,0,0
@@ -278,7 +278,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 80828,,Lincoln County,Eastern Plains,2427,908,1053,651,71.7,67708,244300,44.4,29.6,7.4,68.0,95.1,85.7,14.4,92.2,71.9,95.9,90.4,High,Combined score,Roof and deductible review,,0,0,0,0
 80829,,El Paso County,Colorado Springs & Pikes Peak,5312,2670,2921,1746,65.4,91275,572100,47.3,29.4,3.8,58.3,88.0,98.0,100.0,39.0,57.9,91.9,85.5,High,Wildfire,Roof and deductible review,,0,0,0,0
 80830,,Elbert County,Denver Metro,176,86,89,79,91.9,76250,504200,64.9,67.4,0.0,89.5,98.5,96.5,100.0,72.0,74.3,91.3,93.2,Extreme,Hail and wildfire,Check appetite,,0,0,0,0
-80831,,El Paso County,Colorado Springs & Pikes Peak,33912,11332,11817,10450,92.2,132467,548800,38.3,25.0,0.6,88.4,92.6,96.4,68.1,57.2,72.4,98.0,89.9,High,Wildfire,Roof and deductible review,Yes,9,5,0,0
+80831,,El Paso County,Colorado Springs & Pikes Peak,33912,11332,11817,10450,92.2,132467,548800,38.3,25.0,0.6,88.4,92.6,96.4,68.1,57.2,72.4,98.0,89.9,High,Wildfire,Roof and deductible review,Yes,9,5,1,0
 80832,,Elbert County,Denver Metro,1019,386,427,361,93.5,90556,450000,41.2,33.4,1.8,90.7,91.4,97.0,98.9,54.4,66.2,93.0,88.6,High,Wildfire,Roof and deductible review,,0,1,0,0
 80833,,Lincoln County,Eastern Plains,1240,497,580,436,87.7,42139,195700,54.4,23.1,0.0,96.0,95.6,96.9,65.8,71.1,75.1,96.4,92.7,High,Wildfire,Roof and deductible review,,0,0,0,0
 80834,,Kit Carson County,Eastern Plains,287,135,169,103,76.3,52750,214600,44.2,32.6,7.4,49.6,99.8,85.0,0.0,97.5,98.6,99.6,94.3,Extreme,Hail,Check appetite,,0,0,0,0
@@ -297,7 +297,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 80906,,El Paso County,Colorado Springs & Pikes Peak,37502,15532,16600,10137,65.3,89984,574100,39.7,33.1,2.5,61.7,92.1,79.2,44.7,55.1,71.3,96.0,83.2,High,Wildfire,Roof and deductible review,,9,3,2,0
 80907,,El Paso County,Colorado Springs & Pikes Peak,27815,12756,13290,7131,55.9,74402,414900,37.5,31.8,4.9,54.7,89.4,60.1,0.0,46.3,63.8,93.3,73.9,Low,,No change,,0,1,0,0
 80908,,El Paso County,Colorado Springs & Pikes Peak,25486,8974,9121,8174,91.1,133965,705400,39.0,28.9,1.6,84.3,93.5,98.6,98.2,60.3,76.6,97.6,91.5,Extreme,Wildfire,Check appetite,,2,0,1,0
-80909,,El Paso County,Colorado Springs & Pikes Peak,35486,16116,16952,8704,54.0,64035,386200,37.4,28.4,6.5,55.5,87.1,33.3,0.0,45.1,62.5,93.8,63.5,Low,,No change,,7,1,0,0
+80909,,El Paso County,Colorado Springs & Pikes Peak,35486,16116,16952,8704,54.0,64035,386200,37.4,28.4,6.5,55.5,87.1,33.3,0.0,45.1,62.5,93.8,63.5,Low,,No change,,7,1,1,0
 80910,,El Paso County,Colorado Springs & Pikes Peak,31368,13499,14186,6375,47.2,61969,320300,31.9,24.4,7.6,52.0,87.9,42.7,0.0,49.8,66.2,96.1,68.0,Low,,No change,,5,4,0,0
 80911,,El Paso County,Colorado Springs & Pikes Peak,33027,12116,12576,10387,85.7,87093,376600,36.4,28.8,2.5,73.8,87.7,69.6,0.0,49.0,65.5,95.6,77.2,Low,,No change,,7,3,0,0
 80913,,El Paso County,Colorado Springs & Pikes Peak,6586,0,0,0,,,,21.9,,,,90.6,87.8,4.6,50.6,67.0,94.6,84.8,Moderate,,No change,,0,0,0,0
@@ -307,7 +307,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 80917,,El Paso County,Colorado Springs & Pikes Peak,30398,13364,13502,7829,58.6,72991,387800,34.8,27.3,5.8,55.4,87.5,57.5,0.0,46.3,63.6,94.2,72.4,Low,,No change,,1,0,0,0
 80918,,El Paso County,Colorado Springs & Pikes Peak,50005,19877,20631,12752,64.2,87685,442200,35.3,26.8,4.1,67.7,88.6,53.8,0.0,45.9,63.0,93.6,71.4,Low,,No change,,7,2,0,0
 80919,,El Paso County,Colorado Springs & Pikes Peak,27787,11731,12142,8823,75.2,119518,605900,42.3,30.8,2.2,66.9,90.7,91.6,24.6,47.0,64.3,94.0,85.7,High,Wildfire,Roof and deductible review,Yes,2,2,0,0
-80920,,El Paso County,Colorado Springs & Pikes Peak,36923,14386,14860,9412,65.4,113036,518400,37.2,25.5,1.6,71.8,91.3,76.5,0.9,49.8,66.5,95.7,81.2,Moderate,,No change,Yes,6,1,0,0
+80920,,El Paso County,Colorado Springs & Pikes Peak,36923,14386,14860,9412,65.4,113036,518400,37.2,25.5,1.6,71.8,91.3,76.5,0.9,49.8,66.5,95.7,81.2,Moderate,,No change,Yes,6,1,0,1
 80921,,El Paso County,Colorado Springs & Pikes Peak,26551,10583,11076,7761,73.3,141659,683400,44.3,32.4,4.5,71.6,93.3,98.3,100.0,57.0,73.7,97.8,90.9,High,Wildfire,Roof and deductible review,Yes,1,0,0,0
 80922,,El Paso County,Colorado Springs & Pikes Peak,30453,11472,11672,8004,69.8,108019,446400,34.0,20.2,3.3,69.2,86.6,59.1,0.0,42.2,60.1,93.8,71.9,Low,,No change,Yes,10,3,2,0
 80923,,El Paso County,Colorado Springs & Pikes Peak,31772,12608,13164,8579,68.0,101565,475800,35.1,20.7,2.5,69.3,88.3,71.3,0.2,45.9,63.0,94.9,77.5,Low,,No change,Yes,1,2,0,0
@@ -321,12 +321,12 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 80938,,El Paso County,Colorado Springs & Pikes Peak,1664,485,485,457,94.2,108143,500600,29.5,15.3,0.0,85.8,95.7,97.0,100.0,67.3,81.6,98.8,92.9,High,Wildfire,Roof and deductible review,,0,0,0,0
 80939,,El Paso County,Colorado Springs & Pikes Peak,62,17,17,17,100.0,,,36.1,0.0,0.0,100.0,95.7,97.0,100.0,67.3,81.6,98.8,92.9,High,Wildfire,Roof and deductible review,,0,0,0,0
 80951,,El Paso County,Colorado Springs & Pikes Peak,5219,1651,1684,1257,76.1,108010,421500,29.2,7.5,4.2,82.6,91.1,93.1,33.4,55.4,71.0,97.1,87.8,High,Wildfire,Roof and deductible review,,0,0,0,0
-81001,,Pueblo County,Pueblo & Southern Colorado,31197,12624,13868,6959,55.1,48417,220200,34.0,31.0,9.5,52.8,87.1,48.5,0.2,51.3,46.8,95.5,68.8,Low,,No change,,2,0,0,0
+81001,,Pueblo County,Pueblo & Southern Colorado,31197,12624,13868,6959,55.1,48417,220200,34.0,31.0,9.5,52.8,87.1,48.5,0.2,51.3,46.8,95.5,68.8,Low,,No change,,2,0,1,0
 81003,,Pueblo County,Pueblo & Southern Colorado,15194,5765,6324,2700,46.8,43705,198700,36.1,28.8,12.0,47.3,87.2,44.2,0.0,45.2,44.2,94.1,66.5,Low,,No change,,3,1,1,0
 81004,,Pueblo County,Pueblo & Southern Colorado,25757,11466,12549,6790,59.2,51789,213700,40.9,33.1,9.5,47.4,87.0,31.5,9.2,45.0,43.0,93.9,61.9,Moderate,,No change,,9,3,0,1
 81005,,Pueblo County,Pueblo & Southern Colorado,32441,13224,13733,10215,77.2,70574,298500,43.3,42.2,5.9,65.1,91.4,56.1,6.6,56.6,50.8,97.3,74.1,Moderate,,No change,,6,2,0,0
 81006,,Pueblo County,Pueblo & Southern Colorado,11029,4474,4805,3496,78.1,69050,345400,47.0,38.6,6.0,71.1,90.9,71.2,1.1,45.3,44.3,93.1,77.3,Low,,No change,,5,3,0,0
-81007,,Pueblo County,Pueblo & Southern Colorado,35690,12733,13036,11122,87.3,96713,396800,41.0,33.3,2.8,80.4,85.4,84.9,0.0,43.1,41.8,93.8,79.7,Moderate,,No change,,13,6,1,0
+81007,,Pueblo County,Pueblo & Southern Colorado,35690,12733,13036,11122,87.3,96713,396800,41.0,33.3,2.8,80.4,85.4,84.9,0.0,43.1,41.8,93.8,79.7,Moderate,,No change,,13,6,3,0
 81008,,Pueblo County,Pueblo & Southern Colorado,11608,5174,5421,3402,65.8,69925,310300,37.8,36.0,5.2,58.4,89.7,67.0,1.4,46.5,45.3,94.9,75.7,Low,,No change,,4,2,0,0
 81019,,Pueblo County,Pueblo & Southern Colorado,1280,686,806,491,71.6,38056,223400,63.2,64.3,1.7,63.6,97.2,98.4,100.0,59.7,47.5,99.1,91.6,High,Wildfire,Roof and deductible review,,0,0,0,0
 81020,,Las Animas County,Pueblo & Southern Colorado,763,472,753,384,81.4,30685,108000,68.6,71.0,9.3,57.0,79.8,97.8,100.0,38.0,37.1,98.7,81.7,High,Wildfire,Roof and deductible review,,0,0,0,0
@@ -340,7 +340,7 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 81030,,Otero County,Eastern Plains,148,78,78,56,71.8,40625,110700,61.5,65.4,0.0,60.3,86.2,89.6,0.0,81.1,46.2,85.0,84.8,Moderate,,No change,,0,0,0,0
 81033,,Crowley County,Eastern Plains,219,57,83,42,73.7,41250,80000,34.3,42.1,1.8,52.6,97.5,93.1,0.0,96.6,53.8,92.3,93.2,High,Hail,Roof and deductible review,,0,0,0,0
 81036,,Kiowa County,Eastern Plains,1017,452,550,332,73.5,59868,173300,52.0,40.9,4.0,71.9,98.8,93.2,0.0,97.8,73.5,92.7,94.9,Extreme,Hail,Check appetite,,0,0,0,0
-81039,,Pueblo County,Pueblo & Southern Colorado,1597,812,931,536,66.0,47143,155000,54.1,52.0,6.3,69.1,90.2,86.2,0.4,72.3,46.1,90.5,84.8,Moderate,,No change,,3,0,0,0
+81039,,Pueblo County,Pueblo & Southern Colorado,1597,812,931,536,66.0,47143,155000,54.1,52.0,6.3,69.1,90.2,86.2,0.4,72.3,46.1,90.5,84.8,Moderate,,No change,,3,0,1,0
 81040,,Huerfano County,Pueblo & Southern Colorado,360,216,437,204,94.4,30978,,65.4,76.9,0.0,75.5,92.6,96.9,100.0,76.2,34.7,96.0,89.9,High,Wildfire,Roof and deductible review,,0,0,0,0
 81041,,Prowers County,Eastern Plains,679,254,313,159,62.6,48500,122000,32.5,33.9,4.7,66.5,98.9,95.0,81.0,78.8,62.0,92.4,93.0,Extreme,Hail and wildfire,Check appetite,,0,1,0,0
 81043,,Prowers County,Eastern Plains,30,22,29,15,68.2,12955,,58.8,0.0,22.7,68.2,99.5,88.0,0.0,81.5,63.4,90.1,90.9,Extreme,Hail,Check appetite,,0,0,0,0
@@ -350,13 +350,13 @@ zip,city,county,region,population,households,housing_units,owner_occupied,homeow
 81047,,Prowers County,Eastern Plains,1586,703,803,494,70.3,43050,185000,52.3,48.9,14.5,56.5,99.4,89.8,20.0,80.9,63.1,90.7,91.5,Extreme,Hail and wildfire,Check appetite,,0,0,0,0
 81049,,Las Animas County,Pueblo & Southern Colorado,194,109,168,67,61.5,44904,175800,54.8,44.0,0.9,72.5,83.4,97.0,100.0,35.6,39.6,95.3,82.4,High,Wildfire,Roof and deductible review,,0,0,0,0
 81050,,Otero County,Eastern Plains,9894,4129,4523,2884,69.8,57180,199000,40.1,35.3,7.7,62.4,90.7,89.7,0.0,94.2,62.9,95.4,89.8,High,Combined score,Roof and deductible review,,1,1,0,0
-81052,,Prowers County,Eastern Plains,9045,3546,4097,2351,66.3,58875,158800,34.7,31.5,5.5,66.0,92.0,85.7,7.9,85.1,69.6,95.3,88.3,High,Combined score,Roof and deductible review,,1,0,0,0
+81052,,Prowers County,Eastern Plains,9045,3546,4097,2351,66.3,58875,158800,34.7,31.5,5.5,66.0,92.0,85.7,7.9,85.1,69.6,95.3,88.3,High,Combined score,Roof and deductible review,,1,0,1,0
 81054,,Bent County,Eastern Plains,4729,1519,1803,957,63.0,48398,134100,39.8,36.3,3.7,57.3,91.0,93.0,2.6,97.6,64.8,90.9,91.0,High,Combined score,Roof and deductible review,,1,0,0,0
 81055,,Huerfano County,Pueblo & Southern Colorado,1559,835,1661,615,73.7,55080,398600,68.5,75.1,4.1,54.7,84.0,98.3,99.2,70.9,35.1,96.1,86.5,High,Wildfire,Roof and deductible review,,0,0,0,0
 81057,,Bent County,Eastern Plains,450,186,201,137,73.7,54167,209400,40.0,32.3,0.0,86.6,99.2,95.2,0.0,99.4,76.8,95.0,96.3,Extreme,Hail,Check appetite,,0,0,0,0
 81058,,Otero County,Eastern Plains,871,376,486,304,80.9,48636,141700,48.4,37.2,4.8,78.2,94.4,90.7,0.0,92.3,50.6,91.0,90.4,High,Combined score,Roof and deductible review,,0,0,0,0
 81059,,Las Animas County,Pueblo & Southern Colorado,61,39,85,28,71.8,93068,,64.1,51.3,0.0,89.7,85.0,95.6,64.3,50.8,40.6,91.1,83.7,High,Wildfire,Roof and deductible review,,0,0,0,0
-81062,,Crowley County,Eastern Plains,2000,330,359,240,72.7,56250,127300,38.1,40.0,0.9,75.5,94.3,91.9,0.0,96.8,51.6,94.0,91.5,High,Combined score,Roof and deductible review,,1,0,0,0
+81062,,Crowley County,Eastern Plains,2000,330,359,240,72.7,56250,127300,38.1,40.0,0.9,75.5,94.3,91.9,0.0,96.8,51.6,94.0,91.5,High,Combined score,Roof and deductible review,,1,0,1,0
 81063,,Crowley County,Eastern Plains,2783,725,865,470,64.8,49375,114200,40.2,33.4,6.2,57.8,96.3,92.6,0.0,96.7,54.4,93.2,92.6,High,Combined score,Roof and deductible review,,0,0,0,0
 81064,,Baca County,Eastern Plains,298,135,153,100,74.1,,,40.1,29.6,11.1,76.3,96.0,97.0,100.0,88.0,64.7,95.4,93.9,High,Wildfire,Roof and deductible review,,0,1,0,0
 81067,,Otero County,Eastern Plains,5523,2055,2557,1300,63.3,50028,154800,41.4,35.5,9.2,65.4,89.9,86.6,0.0,90.1,53.9,92.8,87.3,Moderate,,No change,,2,0,0,0
